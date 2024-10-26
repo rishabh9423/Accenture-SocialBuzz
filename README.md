@@ -1,5 +1,5 @@
 # SocialBuzz Data Analysis
-Project Overview
+## Project Overview
 This project is a data analysis task for a hypothetical client, SocialBuzz—a social media platform. The objective of this project is to clean the provided data and calculate a score for each post based on the reactions it received. The score is calculated by assigning different weights to various reaction types. The findings and outcomes of this analysis are presented in a PowerPoint (PPT) slide deck, summarizing insights into SocialBuzz’s content engagement.
 
 Dataset

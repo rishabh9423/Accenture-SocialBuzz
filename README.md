@@ -6,23 +6,23 @@ This project is a data analysis task for a hypothetical client, SocialBuzz—a s
 ## Dataset
 SocialBuzz provided three raw data files:
 
-**Content.csv**: Contains information on each post, such as post ID, content type, and timestamps.
-**Reaction.csv**: Holds data on reactions to posts, including the post ID and the reaction type.
-**ReactionTypes.csv**: Lists each unique reaction type with assigned weights for scoring purposes.
+1. **Content.csv**: Contains information on each post, such as post ID, content type, and timestamps.<br>
+2. **Reaction.csv**: Holds data on reactions to posts, including the post ID and the reaction type.<br>
+3. **ReactionTypes.csv**: Lists each unique reaction type with assigned weights for scoring purposes.<br>
 
 
 ## Objectives
-**Data Cleaning**: Clean the provided datasets to ensure consistency and remove any inaccuracies.
-**Data Transformation**: Merge the datasets into a unified format for analysis.
-**Scoring Calculation**: Calculate a score for each post by assigning weights based on reaction types.
-**Insights and Reporting**: Present the findings in a PPT, including key insights on engagement patterns.
+1. **Data Cleaning**: Clean the provided datasets to ensure consistency and remove any inaccuracies.<br>
+2. **Data Transformation**: Merge the datasets into a unified format for analysis.<br>
+3. **Scoring Calculation**: Calculate a score for each post by assigning weights based on reaction types.<br>
+4. **Insights and Reporting**: Present the findings in a PPT, including key insights on engagement patterns.<br>
 
 
 ## Analysis Process
-**Data Cleaning**: Removed duplicates, handled missing values, and standardized formats across datasets.
-**Data Merging**: Integrated data from Content, Reaction, and ReactionTypes files to create a comprehensive dataset.
-**Score Calculation**: Calculated scores by applying weights to each reaction type.
-**Visualization and Insights**: Created visualizations and analysis summaries in a PowerPoint presentation.
+1. **Data Cleaning**: Removed duplicates, handled missing values, and standardized formats across datasets.<br>
+2. **Data Merging**: Integrated data from Content, Reaction, and ReactionTypes files to create a comprehensive dataset.<br>
+3. **Score Calculation**: Calculated scores by applying weights to each reaction type.<br>
+4. **Visualization and Insights**: Created visualizations and analysis summaries in a PowerPoint presentation.<br>
 
 
 ## Results
@@ -34,7 +34,7 @@ Recommendations for content strategies based on engagement metrics.
 
 
 ## Repository Contents
-**Content.csv**: Raw content data file.
-**Reaction.csv**: Raw reaction data file.
-**ReactionTypes.csv**: Reaction weights file.
-**Social Buzz.pptx**: Final analysis report.
+1. **Content.csv**: Raw content data file.<br>
+2. **Reaction.csv**: Raw reaction data file.<br>
+3. **ReactionTypes.csv**: Reaction weights file.<br>
+4. **Social Buzz.pptx**: Final analysis report.<br>
